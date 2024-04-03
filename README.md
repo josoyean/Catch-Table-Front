@@ -43,11 +43,6 @@ lang - react, html ,css, javascript, npm, styled-components, React-query, Redux
 
 **이 전에는 깃허브 이용해서 배포만 했었는데 아마존 이용해서 배포할수있다는 글을 보고 배포 작업을 했습니다.**
 
-
-AWS EC2 인스턴스를 생성후 연결하고 나서 진행해주세요. https://saltsoyeon.tistory.com/47 \[React\] aws ec2 인스턴스 생성 1. EC2 인스턴스 생성 하기 AWS 로그인후 버튼 클릭 아이디 없으시면 회원가입 해주세
-
-saltsoyeon.tistory.com](https://saltsoyeon.tistory.com/56)
-
 윈도우는 ssh 접속 프로그램이 따로 있는데 맥북은 없다. (난 맥북) 터미널로 키 파일이 있는 공간으로 이동한후에 접속을 하고 배포할 프로그램 깃 클론을 이용해서 저장후 프로세스 관리 도구중에 서버가 끊어지지않고 운영되는 장점이 있어 pm2를 설치 후 빌드 시키면된다. 프로젝트 수정하면 이전과 동일하게 깃에 저장된것을 받고 그대로 빌드만 시키면 배포 완료가 된다. (ssh연결 할때 오류나면 집 와이파이(sk) 연결말고 핫스팟 이용!!!)
 
 #### **2) 서버 통신을 react-query 요청 관리**
