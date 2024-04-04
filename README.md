@@ -1,8 +1,7 @@
 [🔗](https://saltsoyeon.tistory.com/54)
 **블로그 바로가기**
 
-![캐치테이블 작업](https://github.com/josoyean/tving/assets/31685570/0be6137a-f4d1-4b37-9656-0ea2c4732e38)
-
+![캐치테이블 gif](https://github.com/josoyean/tving/assets/31685570/5f81cea1-6eff-4a98-b974-1b43ae397877)
 
 ## **Intor**
 
