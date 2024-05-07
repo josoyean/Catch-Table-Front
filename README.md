@@ -1,7 +1,7 @@
 [🔗](https://saltsoyeon.tistory.com/54)
 **블로그 바로가기**
 
-(https://github.com/josoyean/tving/assets/31685570/5eea157d-09b2-4ed1-b786-82ddc4eaf3ae)
+<img src="https://github.com/josoyean/tving/assets/31685570/5eea157d-09b2-4ed1-b786-82ddc4eaf3ae">
 
 ## **Intor**
 
