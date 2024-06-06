@@ -38,7 +38,7 @@ lang - react, html ,css, javascript, npm, styled-components, React-query, Recoil
 -   서버 통신을 react-query 이용해서 제작
 -   데이터 저장을 위해 sessionStorage 이용
 -   form-data 이용해서 이미지 서버로 전송
-
+-   SWAP이용해서웹접속시간5초이상단축
 
 
 
@@ -115,6 +115,9 @@ useQuery() 오류....
 
 이 프로젝트 덕분에 Content-Type에 multipart/form-data 속성을 사용해봤다. 처음에 뭔지도 모르고 application/json 로 적용했는데 오류가 나서 찾아보니 파일(데이터)를 보내야된다고 한다. 위에 링크 처럼 작업하면 쉽게 form-data로 사진 보낼 수 있다.
 
+#### **5) SWAP 이용해서 웹 접속 시간 5초 이상 단축 **
+
+배포 후 사이트 접속 시간이 길어지는 이슈가 있어서 swap을 이용해서 접속 시간 단축했습니다. 클린 코드 작업 후 처음에는 AWS 메모리 큰 걸 구입해야 하나 생각했는데 가상 메모리인 swap을 이용해 봤다. 단 몇 줄로 속도가 빨라져서 좋았고 가상 메모리에 대해 공부를 더 해야 한다는 걸 느꼈다.
 
 ---
 
